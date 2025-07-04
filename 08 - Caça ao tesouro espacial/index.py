@@ -17,6 +17,9 @@ def showMap():
     print(' | '.join(linha))
     print('-' * 18)
 
+print("Bem vindo ao jogo de caça ao tesouro!")
+print()
+
 while True:
   numberRandomOne = random.randint(0, 3)
   numberRandomTwo = random.randint(0, 3)

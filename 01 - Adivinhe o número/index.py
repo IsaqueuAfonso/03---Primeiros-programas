@@ -10,6 +10,6 @@ while True:
   print(f'Seu número é {randomNumber}? 🤔')
   print()
 
-  question = input('S / N ?')
+  question = input('S / N ? ')
   if question.lower() == 's':
     break
