@@ -1,6 +1,5 @@
 import os
 
-# Caminhos relativos dos seus jogos
 jogos = [
     "01 - Adivinhe o número/index.py",
     "02 - Pense em uma cor/index.py",
