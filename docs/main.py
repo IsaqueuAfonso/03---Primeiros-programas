@@ -4,6 +4,7 @@ jogos = [
     "01 - Adivinhe o número/index.py",
     "02 - Pense em uma cor/index.py",
     "03 - Criando uma histórica maluca/index.py",
+    "04 - Meu crachá de programador(a)/index.py",
     "05 - Oráculo da sabedoria Python/index.py",
     "06 - Quiz de perguntas e respostas/index.py",
     "07 - Número secreto/index.py",
