@@ -19,6 +19,6 @@ while True:
     print(f'Emoji: {emojiThatRepresentsYou}')
     print('_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ')
 
-    question = input(f'Quer fazer novamente? (s/n)')
+    question = input(f'Quer fazer novamente? (s/n): ')
     if question.lower() == 'n':
         break
