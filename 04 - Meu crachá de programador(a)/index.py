@@ -1,6 +1,7 @@
 import os
 
 print("Vamos fazer seu Crachá Dev")
+input()
 
 os.system('clear')
 
