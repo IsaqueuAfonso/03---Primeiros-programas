@@ -9,6 +9,7 @@ questionsAndAnswers = [
 n = 0
 
 print('Vamos jogar um jogo de perguntas e respostas, cada resposta correta vale 1 ponto, sendo um total de 3, vamos lá...')
+input()
 
 for i in questionsAndAnswers:
     os.system('clear')
